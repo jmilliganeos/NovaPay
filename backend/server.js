@@ -19,7 +19,7 @@ const PORT = process.env.PORT || 3000;
   🔥 IMPORTANT:
   In Render, set this environment variable:
 
-  FRONTEND_URL = https://<yourusername>.github.io/NovaPay/backend/frontend
+  FRONTEND_URL = https://jmilliganeos.github.io/NovaPay/backend/frontend
 */
 const FRONTEND_URL = process.env.FRONTEND_URL || 'http://localhost:3000';
 
